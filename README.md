@@ -1,16 +1,15 @@
-## Hi there 👋
+```js
+import Desenvolvedor from "MatheusOliver-dev";
 
-<!--
-**MatheusOliver-dev/MatheusOliver-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class SobreMim extends Desenvolvedor {
+  nome = "Matheus";
+  area = "Back-end";
+  trabalho = "null";
+  local = "São Vicente-SP";
+}
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Skills extends Desenvolvedor {
+  linguagens = ["Java, SQL"];
+  frameworks = ["Aprendendo: Spring, SpringBoot, Hibernate e JPA"];
+}
+```
