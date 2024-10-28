@@ -3,7 +3,7 @@ import Desenvolvedor from "MatheusOliver-dev";
 
 class SobreMim extends Desenvolvedor {
   nome = "Matheus";
-  area = "Back-end";
+  area = "Backend";
   trabalho = "null";
   local = "São Vicente-SP";
 }
