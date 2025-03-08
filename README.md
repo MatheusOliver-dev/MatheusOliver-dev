@@ -9,7 +9,7 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = ["Java, SQL"];
+  linguagens = ["Java, JavaScript, SQL"];
   frameworks = ["Spring, Hibernate, JPA"];
 }
 ```
